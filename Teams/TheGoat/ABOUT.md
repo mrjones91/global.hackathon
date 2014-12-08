@@ -9,16 +9,16 @@ About Us
 
 | @jamonek | @the_mystery_one | @MrJones1914
 |--- |--- |---
-| ![jamonek](https://pbs.twimg.com/profile_images/531868003521269761/SEl1Ri5I.jpeg) | ![the_mystery_one](https://pbs.twimg.com/profile_images/520661492153077760/uGelVzez.jpeg) | ![MrJones1914](https://pbs.twimg.com/profile_images/535657314687410176/69ZhigHM.jpeg)
+| ![jamonek](https://pbs.twimg.com/profile_images/531868003521269761/SEl1Ri5I.jpeg) | ![the_mystery_one](https://pbs.twimg.com/profile_images/520661492153077760/uGelVzez.jpeg) | ![MrJones1914](https://pbs.twimg.com/profile_images/541732480974192640/NcDFa6_4.jpeg)
 
 Jamone: Student, Freelancer, Gamer, Recreational athlete, software developer
 Keheira: Student, Freeancer, Gamer, music producer in training, education horder
-Daniel: Full-time Worker, Gamer, Windows lover, news addict
+Daniel: Full-time Worker, Gamer, Windows lover, news addict and all about that bass
 
 About our skills and what we'll do
 =======
 Jamone: iOS development, web servers, web development, overall back-end experience
 Keheira: Android development, begineer web development, begineer back-end experience
-Daniel: Windows development, web development, game development
+Daniel: Windows development, .NET web development, pc + mobile game development
 
 Our team has picked topic 4 pertaining to comunication. Web applications isn't a strong skill to all our team members but we have enough knowledge and resources between us that we are sure we can tackle this challenge. We hope you enjoy our finished product at the end of the competition.
